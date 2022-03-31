@@ -1,0 +1,128 @@
+.e{
+  color:red;
+  position:absolute;
+  top:5%;
+  padding-left: 30px;
+  padding-top: 20px;
+  margin-top: 30px;
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+a{
+  color:white;
+  text-decoration-line: none;
+}
+a:active{
+  border-bottom: 1px;
+  border-color: white;
+  color:white;
+  text-decoration-line: underline;
+}
+.b{
+background-color: #61A4BC;
+position: absolute;
+right: 35%;
+padding: 20px;
+}
+
+.d{
+  position:absolute;
+  right: 10%;
+  padding-right: 150px;
+  padding-top: 55px;
+  margin-top: 30px;
+}
+.c{
+  font-family: brandon-grotesque;
+  position: absolute;
+  right: 5%;
+  margin-top: 70px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 4px;
+  background-color: #F28A80;
+  border-radius: 300px;
+  color: white;
+}
+.NFT{
+  position:absolute;
+  color: white;
+  top: 40%;
+  right: 1%;
+  font-size:65.32px;
+  font-family: Verdana, Geneva,sans-serif;
+  align-content: flex-end;
+  padding-right: 40px;
+  font-weight: bold;
+}
+.life{
+  position:absolute;
+  color: white;
+  top: 60%;
+  right: 1%;
+  font-size:23px;
+  align-content: flex-end;
+  padding-right: 40px;
+  padding-top: 40px;
+  font-family: Verdana, Geneva,sans-serif;
+  font-weight: bold;
+}
+.est{
+  position:absolute;
+  color: white;
+  top: 70%;
+  right: 1%;
+  font-size:50px;
+  align-content: flex-end;
+  padding-right: 40px;
+  padding-top: 20px;
+  margin-bottom: 1px;
+  font-family: Verdana, Geneva,sans-serif;
+  font-weight: normal;
+}
+.downpart{
+  position: absolute;
+  border-style: solid;
+  background-color: #61748c;
+  border-color: #61748c;
+  left: 50%;
+  top: 100%;
+  padding-top: 44px;
+}
+.under{
+  position:absolute;
+  top:100%;
+  padding-top: 110px;
+  background-color: #61748c;
+  color: white;
+  padding-left: 40%;
+  padding-right: 33%;
+  font-weight: bold;
+  font-family: 'Jost', sans-serif;
+
+}
+.last{
+  position: absolute;
+  text-align: center;
+  top:100%;
+  padding: 170px 4.55% 45px 4.55%;
+  color:white;
+  background-color: #61748c;
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
+  font-size: 17.5px;
+}
+.last1{
+  padding-left: 7%;
+}
+#topp{
+background-color:  #61A4BC;
+margin: 0;
+border-bottom: 100%;
+}
+#bottomp
+{
+  background-color: #61748c;
+  margin: 0;
+}
